@@ -3,7 +3,8 @@
     "password": "qwerty",
     "status": "A",
     "role": "user",
-    "createdAt": "2026-04-17T13:21:34.002Z"
+    "createdAt": "2026-04-17T13:21:34.002Z",
+    "banned": true
   },
   "fttfffr": {
     "password": "tytgfg",
