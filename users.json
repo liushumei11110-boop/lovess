@@ -4,7 +4,8 @@
     "status": "A",
     "role": "user",
     "createdAt": "2026-04-17T13:21:34.002Z",
-    "banned": false
+    "banned": false,
+    "isMuted": true
   },
   "fttfffr": {
     "password": "tytgfg",
