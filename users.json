@@ -4,5 +4,12 @@
     "status": "A",
     "role": "user",
     "createdAt": "2026-04-17T13:21:34.002Z"
+  },
+  "fttfffr": {
+    "password": "tytgfg",
+    "role": "user",
+    "banned": false,
+    "cardValid": false,
+    "createdAt": "2026-04-17T13:51:37.298Z"
   }
 }
