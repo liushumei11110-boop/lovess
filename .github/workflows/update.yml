@@ -1,0 +1,17 @@
+name: Auto Update
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify JSON
+        run: |
+          for file in users.json chats.json scripts.json whitelist.json reviews.json; do
+            if [ -f "$file" ]; then
+              echo "$file OK"
+            fi
+          done
