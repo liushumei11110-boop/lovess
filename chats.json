@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": 1,
+    "user": "系统",
+    "text": "欢迎来到聊天室",
+    "time": "14:59:56",
+    "room": "general",
+    "userId": "SYSTEM",
+    "avatar": "",
+    "isBeauty": "A"
+  }
+]
