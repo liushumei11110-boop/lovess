@@ -1,17 +1,1 @@
-{
-  "ssss": {
-    "password": "qwerty",
-    "status": "A",
-    "role": "user",
-    "createdAt": "2026-04-17T13:21:34.002Z",
-    "banned": false,
-    "isMuted": false
-  },
-  "fttfffr": {
-    "password": "tytgfg",
-    "role": "user",
-    "banned": false,
-    "cardValid": false,
-    "createdAt": "2026-04-17T13:51:37.298Z"
-  }
-}
+%7B%0A%20%20%22test%22%3A%20%22GitHub%E5%86%99%E5%85%A5%E6%B5%8B%E8%AF%95%22%2C%0A%20%20%22timestamp%22%3A%20%222026-04-18T00%3A21%3A26.913Z%22%2C%0A%20%20%22message%22%3A%20%22%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E6%B5%8B%E8%AF%95%E6%96%87%E4%BB%B6%22%2C%0A%20%20%22number%22%3A%20123%2C%0A%20%20%22boolean%22%3A%20true%0A%7D
