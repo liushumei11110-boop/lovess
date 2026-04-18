@@ -15,6 +15,7 @@
     "userId": "OWNER-001",
     "avatar": "",
     "isBeauty": "B",
-    "createdAt": "2026-04-18T01:59:39.588Z"
+    "createdAt": "2026-04-18T01:59:39.588Z",
+    "isMuted": true
   }
 }
