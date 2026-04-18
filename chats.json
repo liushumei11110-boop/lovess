@@ -20,5 +20,16 @@
     "userId": "",
     "avatar": "",
     "isBeauty": "B"
+  },
+  {
+    "id": 1776491148438,
+    "user": "sssss",
+    "text": "你好",
+    "time": "13:45:48",
+    "room": "general",
+    "isMuted": false,
+    "userId": "",
+    "avatar": "",
+    "isBeauty": "B"
   }
 ]
