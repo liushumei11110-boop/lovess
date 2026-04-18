@@ -2,7 +2,7 @@
   "sssss": {
     "password": "qwerty",
     "role": "user",
-    "banned": false,
+    "banned": true,
     "cardValid": "",
     "createdAt": "2026-04-18T00:25:00.461Z",
     "isMuted": true
