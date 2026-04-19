@@ -72,7 +72,7 @@
     "password": "zxcvbnm12",
     "role": "user",
     "banned": true,
-    "isMuted": false,
+    "isMuted": true,
     "userId": "U1776591350352",
     "isBeauty": "A",
     "avatar": "",
