@@ -47,5 +47,15 @@
     "isBeauty": "A",
     "avatar": "",
     "createdAt": "2026-04-19T09:25:09.437Z"
+  },
+  "晚安安": {
+    "password": "114514",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1776591101094",
+    "isBeauty": "A",
+    "avatar": "",
+    "createdAt": "2026-04-19T09:31:41.094Z"
   }
 }
