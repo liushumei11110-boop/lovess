@@ -21,7 +21,7 @@
   "eoss": {
     "password": "sosow",
     "role": "user",
-    "banned": false,
+    "banned": true,
     "isMuted": false,
     "userId": "U1776577877552",
     "isBeauty": "A",
