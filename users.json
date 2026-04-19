@@ -92,7 +92,7 @@
     "password": "123456789",
     "role": "user",
     "banned": false,
-    "isMuted": true,
+    "isMuted": false,
     "userId": "U1776592695142",
     "isBeauty": "A",
     "avatar": "",
