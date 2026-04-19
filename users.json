@@ -91,7 +91,7 @@
   "夜星1": {
     "password": "123456789",
     "role": "user",
-    "banned": true,
+    "banned": false,
     "isMuted": false,
     "userId": "U1776592695142",
     "isBeauty": "A",
