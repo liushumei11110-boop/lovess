@@ -31,7 +31,7 @@
   "ieieie": {
     "password": "siaa",
     "role": "user",
-    "banned": false,
+    "banned": true,
     "isMuted": false,
     "userId": "U1776578792244",
     "isBeauty": "A",
