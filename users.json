@@ -61,7 +61,7 @@
   "ghghghi": {
     "password": "ghighighi_99999",
     "role": "user",
-    "banned": true,
+    "banned": false,
     "isMuted": false,
     "userId": "U1776591118954",
     "isBeauty": "A",
