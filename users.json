@@ -52,7 +52,7 @@
     "password": "114514",
     "role": "user",
     "banned": false,
-    "isMuted": true,
+    "isMuted": false,
     "userId": "U1776591101094",
     "isBeauty": "A",
     "avatar": "",
