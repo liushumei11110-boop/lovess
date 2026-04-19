@@ -22,7 +22,7 @@
     "password": "sosow",
     "role": "user",
     "banned": true,
-    "isMuted": false,
+    "isMuted": true,
     "userId": "U1776577877552",
     "isBeauty": "A",
     "avatar": "",
