@@ -97,5 +97,15 @@
     "isBeauty": "A",
     "avatar": "",
     "createdAt": "2026-04-19T09:58:15.142Z"
+  },
+  "kxglkidd": {
+    "password": "1234qwer...",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1776593774599",
+    "isBeauty": "A",
+    "avatar": "",
+    "createdAt": "2026-04-19T10:16:14.599Z"
   }
 }
