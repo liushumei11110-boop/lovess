@@ -37,5 +37,15 @@
     "isBeauty": "A",
     "avatar": "",
     "createdAt": "2026-04-19T06:06:32.244Z"
+  },
+  "kanghaoyue": {
+    "password": "zyb1234",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1776590709437",
+    "isBeauty": "A",
+    "avatar": "",
+    "createdAt": "2026-04-19T09:25:09.437Z"
   }
 }
