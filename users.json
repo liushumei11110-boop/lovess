@@ -17,5 +17,15 @@
     "isBeauty": "B",
     "createdAt": "2026-04-18T01:59:39.588Z",
     "isMuted": false
+  },
+  "eoss": {
+    "password": "sosow",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1776577877552",
+    "isBeauty": "A",
+    "avatar": "",
+    "createdAt": "2026-04-19T05:51:17.552Z"
   }
 }
