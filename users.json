@@ -67,5 +67,15 @@
     "isBeauty": "A",
     "avatar": "",
     "createdAt": "2026-04-19T09:31:58.954Z"
+  },
+  "夜星2": {
+    "password": "zxcvbnm12",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1776591350352",
+    "isBeauty": "A",
+    "avatar": "",
+    "createdAt": "2026-04-19T09:35:50.352Z"
   }
 }
