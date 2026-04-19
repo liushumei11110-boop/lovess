@@ -77,5 +77,15 @@
     "isBeauty": "A",
     "avatar": "",
     "createdAt": "2026-04-19T09:35:50.352Z"
+  },
+  "DIANMING": {
+    "password": "114514",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1776591688503",
+    "isBeauty": "A",
+    "avatar": "",
+    "createdAt": "2026-04-19T09:41:28.503Z"
   }
 }
