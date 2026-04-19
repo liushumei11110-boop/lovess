@@ -32,7 +32,7 @@
     "password": "siaa",
     "role": "user",
     "banned": true,
-    "isMuted": false,
+    "isMuted": true,
     "userId": "U1776578792244",
     "isBeauty": "A",
     "avatar": "",
