@@ -128,5 +128,16 @@
     "avatar": "",
     "registerIP": "120.225.39.154",
     "createdAt": "2026-04-19T12:05:27.762Z"
+  },
+  "kxgfuck": {
+    "password": "kxgfuck",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1776600377907",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "120.225.39.154",
+    "createdAt": "2026-04-19T12:06:17.907Z"
   }
 }
