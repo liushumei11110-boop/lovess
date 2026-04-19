@@ -71,7 +71,7 @@
   "夜星2": {
     "password": "zxcvbnm12",
     "role": "user",
-    "banned": false,
+    "banned": true,
     "isMuted": false,
     "userId": "U1776591350352",
     "isBeauty": "A",
