@@ -143,7 +143,7 @@
   "夜星3": {
     "password": "123456789",
     "role": "user",
-    "banned": false,
+    "banned": true,
     "isMuted": false,
     "userId": "U1776627110962",
     "isBeauty": "A",
