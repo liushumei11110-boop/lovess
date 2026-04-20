@@ -154,7 +154,7 @@
   "夜星4": {
     "password": "123456789",
     "role": "user",
-    "banned": false,
+    "banned": true,
     "isMuted": false,
     "userId": "U1776627171528",
     "isBeauty": "A",
