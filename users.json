@@ -161,5 +161,16 @@
     "avatar": "",
     "registerIP": "117.181.191.173",
     "createdAt": "2026-04-19T19:32:51.528Z"
+  },
+  "夜星5": {
+    "password": "123456789",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1776752425629",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "113.13.95.218",
+    "createdAt": "2026-04-21T06:20:25.629Z"
   }
 }
