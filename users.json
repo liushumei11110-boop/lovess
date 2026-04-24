@@ -165,7 +165,7 @@
   "夜星5": {
     "password": "123456789",
     "role": "user",
-    "banned": false,
+    "banned": true,
     "isMuted": false,
     "userId": "U1776752425629",
     "isBeauty": "A",
