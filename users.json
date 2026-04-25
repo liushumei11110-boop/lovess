@@ -172,5 +172,17 @@
     "avatar": "",
     "registerIP": "113.13.95.218",
     "createdAt": "2026-04-21T06:20:25.629Z"
+  },
+  "eee": {
+    "password": "qwert",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777092348687",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "45.66.157.109",
+    "fingerprintId": "d353480814d515328dbd38ea40d90647ac03bab79e170e07a99d0730a132e593",
+    "createdAt": "2026-04-25T04:45:48.687Z"
   }
 }
