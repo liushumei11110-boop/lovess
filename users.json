@@ -11,7 +11,7 @@
   "OWNER-康皓月": {
     "password": "khyzybnb666147",
     "role": "owner",
-    "banned": false,
+    "banned": true,
     "userId": "LOVESS",
     "avatar": "",
     "isBeauty": "B",
