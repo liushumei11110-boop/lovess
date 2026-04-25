@@ -62,5 +62,16 @@
     "registerIP": "106.119.136.98",
     "hardwareId": "40027eef28b035866d971b841a4dd56a5e431f5fe03094a8f94ec05335e9faed",
     "createdAt": "2026-04-25T07:11:44.681Z"
+  },
+  "qwer": {
+    "password": "qwerty",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777101136625",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "106.119.136.98",
+    "createdAt": "2026-04-25T07:12:16.625Z"
   }
 }
