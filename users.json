@@ -73,5 +73,18 @@
     "avatar": "",
     "registerIP": "106.119.136.98",
     "createdAt": "2026-04-25T07:12:16.625Z"
+  },
+  "测试1": {
+    "password": "khykhy",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777118385452",
+    "isBeauty": "B",
+    "avatar": "",
+    "registerIP": "106.119.136.98",
+    "hardwareId": "40027eef28b035866d971b841a4dd56a5e431f5fe03094a8f94ec05335e9faed",
+    "createdAt": "2026-04-25T11:59:45.452Z",
+    "usedCard": "LOVESS-3827"
   }
 }
