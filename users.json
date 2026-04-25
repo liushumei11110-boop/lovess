@@ -38,5 +38,17 @@
     "isBeauty": "A",
     "avatar": "",
     "createdAt": "2026-04-19T10:26:11.368Z"
+  },
+  "Welove": {
+    "password": "qqqq",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777093867980",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "45.66.157.109",
+    "fingerprintId": "d353480814d515328dbd38ea40d90647ac03bab79e170e07a99d0730a132e593",
+    "createdAt": "2026-04-25T05:11:07.980Z"
   }
 }
