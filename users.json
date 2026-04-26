@@ -99,5 +99,18 @@
     "hardwareId": "0917ee3f274dea2e1246de8df6651d05309946d80e5317509e1aab2c59972b33",
     "createdAt": "2026-04-26T02:23:56.011Z",
     "usedCard": null
+  },
+  "FKL0i": {
+    "password": "123qwe456rty",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777182753786",
+    "isBeauty": "B",
+    "avatar": "",
+    "registerIP": "39.154.110.26",
+    "hardwareId": "dc49cae4c2444ce7860345e1e852739d6e41d5afc19bc6feb279999f996e7b5d",
+    "createdAt": "2026-04-26T05:52:33.786Z",
+    "usedCard": "LOVESS-4732"
   }
 }
