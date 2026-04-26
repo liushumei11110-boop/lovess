@@ -86,5 +86,18 @@
     "hardwareId": "40027eef28b035866d971b841a4dd56a5e431f5fe03094a8f94ec05335e9faed",
     "createdAt": "2026-04-25T11:59:45.452Z",
     "usedCard": "LOVESS-3827"
+  },
+  "夜星5": {
+    "password": "123456789",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777170236011",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "43.216.183.71",
+    "hardwareId": "0917ee3f274dea2e1246de8df6651d05309946d80e5317509e1aab2c59972b33",
+    "createdAt": "2026-04-26T02:23:56.011Z",
+    "usedCard": null
   }
 }
