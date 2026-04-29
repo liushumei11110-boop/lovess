@@ -168,7 +168,7 @@
   "夜星6": {
     "password": "12345678",
     "role": "user",
-    "banned": false,
+    "banned": true,
     "isMuted": false,
     "userId": "U1777468910685",
     "isBeauty": "A",
