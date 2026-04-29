@@ -112,5 +112,18 @@
     "hardwareId": "dc49cae4c2444ce7860345e1e852739d6e41d5afc19bc6feb279999f996e7b5d",
     "createdAt": "2026-04-26T05:52:33.786Z",
     "usedCard": "LOVESS-4732"
+  },
+  "kanghaoyue": {
+    "password": "khykhy",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777461880726",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "106.119.136.98",
+    "hardwareId": "40027eef28b035866d971b841a4dd56a5e431f5fe03094a8f94ec05335e9faed",
+    "createdAt": "2026-04-29T11:24:40.726Z",
+    "usedCard": null
   }
 }
