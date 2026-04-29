@@ -125,5 +125,18 @@
     "hardwareId": "40027eef28b035866d971b841a4dd56a5e431f5fe03094a8f94ec05335e9faed",
     "createdAt": "2026-04-29T11:24:40.726Z",
     "usedCard": null
+  },
+  "kang": {
+    "password": "khykhy",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777462044268",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "36.134.214.232",
+    "hardwareId": "b8034a5707b7e1caca17e171f955d57693227adb51e6d1cb0ed55979babc724c",
+    "createdAt": "2026-04-29T11:27:24.268Z",
+    "usedCard": null
   }
 }
