@@ -138,5 +138,18 @@
     "hardwareId": "b8034a5707b7e1caca17e171f955d57693227adb51e6d1cb0ed55979babc724c",
     "createdAt": "2026-04-29T11:27:24.268Z",
     "usedCard": null
+  },
+  "xiaochun": {
+    "password": "12345678",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777468494008",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "117.165.37.46",
+    "hardwareId": "95dd492df67ac0f29f046bd548956a1bf6a1f43988d0afe4d615d5e62e3b392f",
+    "createdAt": "2026-04-29T13:14:54.008Z",
+    "usedCard": null
   }
 }
