@@ -177,5 +177,18 @@
     "hardwareId": "0917ee3f274dea2e1246de8df6651d05309946d80e5317509e1aab2c59972b33",
     "createdAt": "2026-04-29T13:21:50.685Z",
     "usedCard": null
+  },
+  "yyuu": {
+    "password": "yuuu",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777479635074",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "183.94.241.240",
+    "hardwareId": "0d73cb7b930ca08a880a7ec126ea9fb46d59cae71c1ffb3a18223bcc875a9340",
+    "createdAt": "2026-04-29T16:20:35.074Z",
+    "usedCard": null
   }
 }
