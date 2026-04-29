@@ -1,4 +1,17 @@
 {
+  "14514": {
+    "password": "szsz7788",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777468855664",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "58.56.65.97",
+    "hardwareId": "acce19b3255dd2976f0991aff774fee0651cfee530ce71aa06c488c00380a420",
+    "createdAt": "2026-04-29T13:20:55.664Z",
+    "usedCard": null
+  },
   "OWNER-康皓月": {
     "password": "khyzybnb666147",
     "role": "owner",
