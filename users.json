@@ -203,5 +203,18 @@
     "hardwareId": "0d73cb7b930ca08a880a7ec126ea9fb46d59cae71c1ffb3a18223bcc875a9340",
     "createdAt": "2026-04-29T16:26:03.893Z",
     "usedCard": null
+  },
+  "jjjj": {
+    "password": "uuuu",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777480033292",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "183.94.241.240",
+    "hardwareId": null,
+    "createdAt": "2026-04-29T16:27:13.292Z",
+    "usedCard": null
   }
 }
