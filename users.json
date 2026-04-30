@@ -1425,5 +1425,18 @@
     "hardwareId": "",
     "createdAt": "2026-04-30T14:52:53.815Z",
     "usedCard": null
+  },
+  "iahngkucdp": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777560791624",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "110.191.19.199",
+    "hardwareId": "",
+    "createdAt": "2026-04-30T14:53:11.624Z",
+    "usedCard": null
   }
 }
