@@ -25,6 +25,19 @@
     "createdAt": "2026-04-29T13:20:55.664Z",
     "usedCard": null
   },
+  "11451444": {
+    "password": "Blnaaa",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777554828387",
+    "isBeauty": "B",
+    "avatar": "",
+    "registerIP": "182.132.119.156",
+    "hardwareId": "186f7949a1c7c89642e3ea1b250c2a04371877b1d988ce4ac7b165ee09821425",
+    "createdAt": "2026-04-30T13:13:48.387Z",
+    "usedCard": "LOVESS-4732"
+  },
   "OWNER-康皓月": {
     "password": "khyzybnb666147",
     "role": "owner",
