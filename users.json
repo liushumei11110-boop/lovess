@@ -2127,5 +2127,18 @@
     "hardwareId": "",
     "createdAt": "2026-04-30T15:01:52.687Z",
     "usedCard": null
+  },
+  "kbquas17": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777561315790",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "110.191.19.199",
+    "hardwareId": "",
+    "createdAt": "2026-04-30T15:01:55.790Z",
+    "usedCard": null
   }
 }
