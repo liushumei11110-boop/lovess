@@ -216,5 +216,18 @@
     "hardwareId": null,
     "createdAt": "2026-04-29T16:27:13.292Z",
     "usedCard": null
+  },
+  "xiaopi": {
+    "password": "xiaopi666",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777525127407",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "183.217.208.172",
+    "hardwareId": "497e2654419e75eeafb08e449d0c5dec1d5d9a3ffab8b7e593808c8fb585fcbe",
+    "createdAt": "2026-04-30T04:58:47.407Z",
+    "usedCard": null
   }
 }
