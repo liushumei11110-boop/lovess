@@ -320,5 +320,18 @@
     "hardwareId": "186f7949a1c7c89642e3ea1b250c2a04371877b1d988ce4ac7b165ee09821425",
     "createdAt": "2026-04-30T14:03:36.961Z",
     "usedCard": null
+  },
+  "UNNB999": {
+    "password": "UNNB666",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777558329153",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "182.132.119.156",
+    "hardwareId": "186f7949a1c7c89642e3ea1b250c2a04371877b1d988ce4ac7b165ee09821425",
+    "createdAt": "2026-04-30T14:12:09.153Z",
+    "usedCard": null
   }
 }
