@@ -1139,5 +1139,18 @@
     "hardwareId": "78",
     "createdAt": "2026-04-30T14:24:14.849Z",
     "usedCard": null
+  },
+  "fmw7mhs5q": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777560630244",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "110.191.19.199",
+    "hardwareId": "",
+    "createdAt": "2026-04-30T14:50:30.244Z",
+    "usedCard": null
   }
 }
