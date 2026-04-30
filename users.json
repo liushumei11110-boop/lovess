@@ -2660,5 +2660,18 @@
     "hardwareId": "",
     "createdAt": "2026-04-30T15:05:53.798Z",
     "usedCard": null
+  },
+  "ps8ttavi4": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777563631201",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "110.191.19.199",
+    "hardwareId": "",
+    "createdAt": "2026-04-30T15:40:31.201Z",
+    "usedCard": null
   }
 }
