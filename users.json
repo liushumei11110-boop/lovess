@@ -2179,5 +2179,18 @@
     "hardwareId": "",
     "createdAt": "2026-04-30T15:02:05.715Z",
     "usedCard": null
+  },
+  "xt117ofwoh": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777561328883",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "110.191.19.199",
+    "hardwareId": "",
+    "createdAt": "2026-04-30T15:02:08.883Z",
+    "usedCard": null
   }
 }
