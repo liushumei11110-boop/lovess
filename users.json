@@ -1373,5 +1373,18 @@
     "hardwareId": "",
     "createdAt": "2026-04-30T14:52:41.900Z",
     "usedCard": null
+  },
+  "2xlb": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777560766643",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "220.173.28.70",
+    "hardwareId": "",
+    "createdAt": "2026-04-30T14:52:46.643Z",
+    "usedCard": null
   }
 }
