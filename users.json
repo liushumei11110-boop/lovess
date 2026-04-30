@@ -2114,5 +2114,18 @@
     "hardwareId": "",
     "createdAt": "2026-04-30T15:01:49.912Z",
     "usedCard": null
+  },
+  "m6nkzwdqq": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777561312686",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "110.191.19.199",
+    "hardwareId": "",
+    "createdAt": "2026-04-30T15:01:52.687Z",
+    "usedCard": null
   }
 }
