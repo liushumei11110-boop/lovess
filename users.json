@@ -1,4 +1,17 @@
 {
+  "111": {
+    "password": "111",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777554338021",
+    "isBeauty": "B",
+    "avatar": "",
+    "registerIP": "220.173.28.70",
+    "hardwareId": "67dfe23efb6ba94b1776bf676163fe53f6b67f1541ed93dad41d410d94116526",
+    "createdAt": "2026-04-30T13:05:38.021Z",
+    "usedCard": "LOVESS-3827"
+  },
   "14514": {
     "password": "szsz7788",
     "role": "user",
