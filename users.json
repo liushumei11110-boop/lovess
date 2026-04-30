@@ -1672,5 +1672,18 @@
     "hardwareId": "",
     "createdAt": "2026-04-30T14:53:11.624Z",
     "usedCard": null
+  },
+  "rvsz4db1n": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777560868752",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "110.191.19.199",
+    "hardwareId": "",
+    "createdAt": "2026-04-30T14:54:28.752Z",
+    "usedCard": null
   }
 }
