@@ -268,5 +268,18 @@
     "hardwareId": "0d73cb7b930ca08a880a7ec126ea9fb46d59cae71c1ffb3a18223bcc875a9340",
     "createdAt": "2026-04-30T09:48:42.237Z",
     "usedCard": null
+  },
+  "小白王": {
+    "password": "a1314520",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777556260293",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "61.180.19.165",
+    "hardwareId": "4364e63b7543e14fe569abaca3635fcf50215804692f7991d557e6e96ec9026f",
+    "createdAt": "2026-04-30T13:37:40.293Z",
+    "usedCard": null
   }
 }
