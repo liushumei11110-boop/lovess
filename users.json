@@ -2712,5 +2712,18 @@
     "hardwareId": "",
     "createdAt": "2026-04-30T22:41:08.172Z",
     "usedCard": null
+  },
+  "rmwotbx": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777588902038",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "110.191.4.249",
+    "hardwareId": "",
+    "createdAt": "2026-04-30T22:41:42.038Z",
+    "usedCard": null
   }
 }
