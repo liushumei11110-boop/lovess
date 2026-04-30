@@ -402,6 +402,19 @@
     "createdAt": "2026-04-30T14:49:59.051Z",
     "usedCard": null
   },
+  "43375": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777560819704",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "220.173.28.70",
+    "hardwareId": "",
+    "createdAt": "2026-04-30T14:53:39.704Z",
+    "usedCard": null
+  },
   "43448": {
     "password": "1",
     "role": "user",
