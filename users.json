@@ -2621,5 +2621,18 @@
     "hardwareId": "",
     "createdAt": "2026-04-30T15:03:00.343Z",
     "usedCard": null
+  },
+  "03r9dpm": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777561519748",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "110.191.19.199",
+    "hardwareId": "",
+    "createdAt": "2026-04-30T15:05:19.748Z",
+    "usedCard": null
   }
 }
