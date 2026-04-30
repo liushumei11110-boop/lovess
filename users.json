@@ -2192,5 +2192,18 @@
     "hardwareId": "",
     "createdAt": "2026-04-30T15:02:08.883Z",
     "usedCard": null
+  },
+  "bsc": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777561331748",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "110.191.19.199",
+    "hardwareId": "",
+    "createdAt": "2026-04-30T15:02:11.748Z",
+    "usedCard": null
   }
 }
