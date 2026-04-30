@@ -1243,5 +1243,18 @@
     "hardwareId": "",
     "createdAt": "2026-04-30T14:50:34.905Z",
     "usedCard": null
+  },
+  "b11he4et": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777560725147",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "47.93.136.202",
+    "hardwareId": "",
+    "createdAt": "2026-04-30T14:52:05.147Z",
+    "usedCard": null
   }
 }
