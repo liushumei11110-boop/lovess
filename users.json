@@ -2101,5 +2101,18 @@
     "hardwareId": "",
     "createdAt": "2026-04-30T15:01:47.118Z",
     "usedCard": null
+  },
+  "i6xu": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777561309912",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "110.191.19.199",
+    "hardwareId": "",
+    "createdAt": "2026-04-30T15:01:49.912Z",
+    "usedCard": null
   }
 }
