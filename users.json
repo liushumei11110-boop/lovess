@@ -2699,5 +2699,18 @@
     "hardwareId": "",
     "createdAt": "2026-04-30T22:37:20.452Z",
     "usedCard": null
+  },
+  "m29": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777588869174",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "110.191.4.249",
+    "hardwareId": "",
+    "createdAt": "2026-04-30T22:41:09.174Z",
+    "usedCard": null
   }
 }
