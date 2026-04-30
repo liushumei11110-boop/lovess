@@ -2387,5 +2387,18 @@
     "hardwareId": "",
     "createdAt": "2026-04-30T15:02:19.039Z",
     "usedCard": null
+  },
+  "ctuo3fkw62": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777561380343",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "110.191.19.199",
+    "hardwareId": "",
+    "createdAt": "2026-04-30T15:03:00.343Z",
+    "usedCard": null
   }
 }
