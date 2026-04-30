@@ -333,5 +333,18 @@
     "hardwareId": "186f7949a1c7c89642e3ea1b250c2a04371877b1d988ce4ac7b165ee09821425",
     "createdAt": "2026-04-30T14:12:09.153Z",
     "usedCard": null
+  },
+  "sss": {
+    "password": "111",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777559054849",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "220.173.28.70",
+    "hardwareId": "78",
+    "createdAt": "2026-04-30T14:24:14.849Z",
+    "usedCard": null
   }
 }
