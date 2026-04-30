@@ -25,6 +25,19 @@
     "createdAt": "2026-04-30T13:05:38.021Z",
     "usedCard": "LOVESS-3827"
   },
+  "10781": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777560412184",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "220.173.28.70",
+    "hardwareId": "",
+    "createdAt": "2026-04-30T14:46:52.184Z",
+    "usedCard": null
+  },
   "11111": {
     "password": "111",
     "role": "user",
