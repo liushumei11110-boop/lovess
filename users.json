@@ -168,6 +168,19 @@
     "createdAt": "2026-04-30T14:49:14.071Z",
     "usedCard": null
   },
+  "15829": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777560614480",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "220.173.28.70",
+    "hardwareId": "",
+    "createdAt": "2026-04-30T14:50:14.480Z",
+    "usedCard": null
+  },
   "16228": {
     "password": "1",
     "role": "user",
