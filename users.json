@@ -1347,5 +1347,18 @@
     "hardwareId": "",
     "createdAt": "2026-04-30T14:52:36.122Z",
     "usedCard": null
+  },
+  "owaa71v5f": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777560759343",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "220.173.28.70",
+    "hardwareId": "",
+    "createdAt": "2026-04-30T14:52:39.343Z",
+    "usedCard": null
   }
 }
