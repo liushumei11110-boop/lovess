@@ -1321,5 +1321,18 @@
     "hardwareId": "",
     "createdAt": "2026-04-30T14:52:29.929Z",
     "usedCard": null
+  },
+  "lu2y": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777560752652",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "220.173.28.70",
+    "hardwareId": "",
+    "createdAt": "2026-04-30T14:52:32.652Z",
+    "usedCard": null
   }
 }
