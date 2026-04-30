@@ -1165,5 +1165,18 @@
     "hardwareId": "",
     "createdAt": "2026-04-30T14:50:30.244Z",
     "usedCard": null
+  },
+  "r4rg": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777560632709",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "110.191.19.199",
+    "hardwareId": "",
+    "createdAt": "2026-04-30T14:50:32.709Z",
+    "usedCard": null
   }
 }
