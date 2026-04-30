@@ -1308,5 +1308,18 @@
     "hardwareId": "",
     "createdAt": "2026-04-30T14:52:27.134Z",
     "usedCard": null
+  },
+  "4ai1d": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777560749929",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "220.173.28.70",
+    "hardwareId": "",
+    "createdAt": "2026-04-30T14:52:29.929Z",
+    "usedCard": null
   }
 }
