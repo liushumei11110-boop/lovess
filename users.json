@@ -3,7 +3,7 @@
     "password": "1",
     "role": "user",
     "banned": false,
-    "isMuted": false,
+    "isMuted": true,
     "userId": "U1777560300390",
     "isBeauty": "A",
     "avatar": "",
