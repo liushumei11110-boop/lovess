@@ -2673,5 +2673,18 @@
     "hardwareId": "",
     "createdAt": "2026-04-30T15:40:31.201Z",
     "usedCard": null
+  },
+  "kb92wr2vh": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777588610120",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "110.191.4.249",
+    "hardwareId": "",
+    "createdAt": "2026-04-30T22:36:50.120Z",
+    "usedCard": null
   }
 }
