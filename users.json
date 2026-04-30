@@ -1269,5 +1269,18 @@
     "hardwareId": "",
     "createdAt": "2026-04-30T14:52:20.363Z",
     "usedCard": null
+  },
+  "gk0c": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777560742909",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "220.173.28.70",
+    "hardwareId": "",
+    "createdAt": "2026-04-30T14:52:22.909Z",
+    "usedCard": null
   }
 }
