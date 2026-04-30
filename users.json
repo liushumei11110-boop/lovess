@@ -1360,5 +1360,18 @@
     "hardwareId": "",
     "createdAt": "2026-04-30T14:52:39.343Z",
     "usedCard": null
+  },
+  "u7b5t3": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777560761900",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "220.173.28.70",
+    "hardwareId": "",
+    "createdAt": "2026-04-30T14:52:41.900Z",
+    "usedCard": null
   }
 }
