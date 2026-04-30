@@ -2088,5 +2088,18 @@
     "hardwareId": "",
     "createdAt": "2026-04-30T15:01:42.979Z",
     "usedCard": null
+  },
+  "90h1xq2d": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777561307118",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "110.191.19.199",
+    "hardwareId": "",
+    "createdAt": "2026-04-30T15:01:47.118Z",
+    "usedCard": null
   }
 }
