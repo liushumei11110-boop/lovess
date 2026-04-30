@@ -1256,5 +1256,18 @@
     "hardwareId": "",
     "createdAt": "2026-04-30T14:52:05.147Z",
     "usedCard": null
+  },
+  "wk8k": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777560740363",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "220.173.28.70",
+    "hardwareId": "",
+    "createdAt": "2026-04-30T14:52:20.363Z",
+    "usedCard": null
   }
 }
