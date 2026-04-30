@@ -1698,5 +1698,18 @@
     "hardwareId": "",
     "createdAt": "2026-04-30T14:54:29.293Z",
     "usedCard": null
+  },
+  "8pco1jq1x": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777560962633",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "110.191.19.199",
+    "hardwareId": "",
+    "createdAt": "2026-04-30T14:56:02.633Z",
+    "usedCard": null
   }
 }
