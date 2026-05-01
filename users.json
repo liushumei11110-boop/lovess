@@ -2972,5 +2972,18 @@
     "hardwareId": "",
     "createdAt": "2026-05-01T03:07:47.606Z",
     "usedCard": null
+  },
+  "u6ntjo": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777604986478",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "182.143.183.102",
+    "hardwareId": "",
+    "createdAt": "2026-05-01T03:09:46.478Z",
+    "usedCard": null
   }
 }
