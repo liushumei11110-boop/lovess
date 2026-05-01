@@ -3011,5 +3011,18 @@
     "hardwareId": "",
     "createdAt": "2026-05-01T03:10:24.741Z",
     "usedCard": null
+  },
+  "pl2w": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777605167318",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "182.143.183.102",
+    "hardwareId": "",
+    "createdAt": "2026-05-01T03:12:47.318Z",
+    "usedCard": null
   }
 }
