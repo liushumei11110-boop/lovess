@@ -1,4 +1,17 @@
 {
+  "15307": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777648335179",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "54.151.67.60",
+    "hardwareId": "",
+    "createdAt": "2026-05-01T15:12:15.179Z",
+    "usedCard": null
+  },
   "IDKUUU": {
     "password": "114514UUU",
     "role": "user",
