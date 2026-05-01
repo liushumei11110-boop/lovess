@@ -2907,5 +2907,18 @@
     "hardwareId": "",
     "createdAt": "2026-05-01T03:01:04.948Z",
     "usedCard": null
+  },
+  "kv8l": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777604478349",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "182.143.184.76",
+    "hardwareId": "",
+    "createdAt": "2026-05-01T03:01:18.349Z",
+    "usedCard": null
   }
 }
