@@ -2764,5 +2764,18 @@
     "hardwareId": "test123",
     "createdAt": "2026-05-01T01:04:33.101Z",
     "usedCard": null
+  },
+  "<img src=x onerror=alert('死妈')>": {
+    "password": "123",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777597626931",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "220.173.28.70",
+    "hardwareId": "same_hardware_12345",
+    "createdAt": "2026-05-01T01:07:06.931Z",
+    "usedCard": null
   }
 }
