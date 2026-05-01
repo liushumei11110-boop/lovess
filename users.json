@@ -11,5 +11,18 @@
     "hardwareId": "1e84571d25d4f443a4b91e8be1abd8c0a32130a07424f7dfcd03ac01dc745f32",
     "createdAt": "2026-05-01T14:43:30.762Z",
     "usedCard": null
+  },
+  "夜星7": {
+    "password": "123456789",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777646821891",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "117.183.104.112",
+    "hardwareId": "0917ee3f274dea2e1246de8df6651d05309946d80e5317509e1aab2c59972b33",
+    "createdAt": "2026-05-01T14:47:01.891Z",
+    "usedCard": null
   }
 }
