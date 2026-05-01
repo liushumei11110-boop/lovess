@@ -2751,5 +2751,18 @@
     "hardwareId": "",
     "createdAt": "2026-05-01T00:14:48.385Z",
     "usedCard": null
+  },
+  "<script>alert('康皓月死妈啦')</script>": {
+    "password": "123",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777597473101",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "220.173.28.70",
+    "hardwareId": "test123",
+    "createdAt": "2026-05-01T01:04:33.101Z",
+    "usedCard": null
   }
 }
