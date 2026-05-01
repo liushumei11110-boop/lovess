@@ -2998,5 +2998,18 @@
     "hardwareId": "",
     "createdAt": "2026-05-01T03:10:05.564Z",
     "usedCard": null
+  },
+  "buqwe59idy": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777605024741",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "182.143.183.102",
+    "hardwareId": "",
+    "createdAt": "2026-05-01T03:10:24.741Z",
+    "usedCard": null
   }
 }
