@@ -2920,5 +2920,18 @@
     "hardwareId": "",
     "createdAt": "2026-05-01T03:01:18.349Z",
     "usedCard": null
+  },
+  "jdit": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777604755932",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "182.143.183.102",
+    "hardwareId": "",
+    "createdAt": "2026-05-01T03:05:55.932Z",
+    "usedCard": null
   }
 }
