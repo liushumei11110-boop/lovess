@@ -3024,5 +3024,18 @@
     "hardwareId": "",
     "createdAt": "2026-05-01T03:12:47.318Z",
     "usedCard": null
+  },
+  "云兮YunXi": {
+    "password": "YunXilove666",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777606133414",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "223.146.90.212",
+    "hardwareId": "10130179c91c5a218fd7a67f1e74f809a735bd6a6afd1ff25156282bdfbc0a02",
+    "createdAt": "2026-05-01T03:28:53.414Z",
+    "usedCard": null
   }
 }
