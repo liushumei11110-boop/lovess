@@ -2868,5 +2868,18 @@
     "hardwareId": "",
     "createdAt": "2026-05-01T01:40:18.714Z",
     "usedCard": null
+  },
+  "4nuf2wtjg": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777599905739",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "110.191.20.42",
+    "hardwareId": "",
+    "createdAt": "2026-05-01T01:45:05.739Z",
+    "usedCard": null
   }
 }
