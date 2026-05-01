@@ -2777,5 +2777,18 @@
     "hardwareId": "same_hardware_12345",
     "createdAt": "2026-05-01T01:07:06.931Z",
     "usedCard": null
+  },
+  "<img src=x onerror=alert('康皓月我操你妈喽')>": {
+    "password": "123",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777597917152",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "220.173.28.70",
+    "hardwareId": "same_hardware_12345",
+    "createdAt": "2026-05-01T01:11:57.152Z",
+    "usedCard": null
   }
 }
