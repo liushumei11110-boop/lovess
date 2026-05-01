@@ -2933,5 +2933,18 @@
     "hardwareId": "",
     "createdAt": "2026-05-01T03:05:55.932Z",
     "usedCard": null
+  },
+  "kd1clscpt": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777604807455",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "182.143.183.102",
+    "hardwareId": "",
+    "createdAt": "2026-05-01T03:06:47.455Z",
+    "usedCard": null
   }
 }
