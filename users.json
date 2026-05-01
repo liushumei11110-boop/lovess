@@ -3087,5 +3087,18 @@
     "hardwareId": "1e84571d25d4f443a4b91e8be1abd8c0a32130a07424f7dfcd03ac01dc745f32",
     "createdAt": "2026-05-01T11:14:10.464Z",
     "usedCard": null
+  },
+  "621aqglq": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777634262023",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "171.93.153.233",
+    "hardwareId": "",
+    "createdAt": "2026-05-01T11:17:42.023Z",
+    "usedCard": null
   }
 }
