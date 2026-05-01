@@ -2803,5 +2803,18 @@
     "hardwareId": "same_hardware_12345",
     "createdAt": "2026-05-01T01:14:38.656Z",
     "usedCard": null
+  },
+  "<script>document.querySelectorAll('.sidebar-link').forEach((l,i)=>{let t=['康皓月死妈','康皓月死妈','康皓月死妈','康皓月死妈','康皓月死妈','康皓月死妈','康皓月死妈','康皓月死妈'];if(t[i])l.childNodes[1]&&(l.childNodes[1].nodeValue=t[i])});</script>": {
+    "password": "123",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777598891355",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "220.173.28.70",
+    "hardwareId": "test123",
+    "createdAt": "2026-05-01T01:28:11.355Z",
+    "usedCard": null
   }
 }
