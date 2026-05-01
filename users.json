@@ -2790,5 +2790,18 @@
     "hardwareId": "same_hardware_12345",
     "createdAt": "2026-05-01T01:11:57.152Z",
     "usedCard": null
+  },
+  "<img src=x onerror=alert('涂炭母入侵。郭浩然你妈飞了。')>": {
+    "password": "123",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777598078656",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "110.191.4.249",
+    "hardwareId": "same_hardware_12345",
+    "createdAt": "2026-05-01T01:14:38.656Z",
+    "usedCard": null
   }
 }
