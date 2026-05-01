@@ -1910,6 +1910,19 @@
     "createdAt": "2026-04-30T13:13:48.387Z",
     "usedCard": "LOVESS-4732"
   },
+  "111111666": {
+    "password": "111111",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777624927719",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "18.181.80.186",
+    "hardwareId": "a7c6b9b0ea532566fee9fc6e864755017ea9b330429b149c80062fdee29fc6b3",
+    "createdAt": "2026-05-01T08:42:07.719Z",
+    "usedCard": null
+  },
   "OWNER-康皓月": {
     "password": "khyzybnb666147",
     "role": "owner",
