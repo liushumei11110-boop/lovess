@@ -4923,5 +4923,14 @@
     "room": "general",
     "userId": "Jane Doe",
     "isBeauty": "A"
+  },
+  {
+    "id": 1777633657601,
+    "user": "Eliot",
+    "text": "还会说话吗。",
+    "time": "11:07:37 AM",
+    "room": "general",
+    "userId": "Eliot",
+    "isBeauty": "A"
   }
 ]
