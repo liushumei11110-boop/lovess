@@ -3050,5 +3050,16 @@
     "hardwareId": "10130179c91c5a218fd7a67f1e74f809a735bd6a6afd1ff25156282bdfbc0a02",
     "createdAt": "2026-05-01T03:28:53.414Z",
     "usedCard": null
+  },
+  "undefined": {
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777627224754",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "35.77.45.128",
+    "createdAt": "2026-05-01T09:20:24.754Z",
+    "usedCard": null
   }
 }
