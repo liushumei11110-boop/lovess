@@ -3061,5 +3061,18 @@
     "registerIP": "35.77.45.128",
     "createdAt": "2026-05-01T09:20:24.754Z",
     "usedCard": null
+  },
+  "qxnq0t": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777632580243",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "171.93.153.233",
+    "hardwareId": "",
+    "createdAt": "2026-05-01T10:49:40.243Z",
+    "usedCard": null
   }
 }
