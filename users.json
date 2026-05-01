@@ -2829,5 +2829,18 @@
     "hardwareId": "test123",
     "createdAt": "2026-05-01T01:31:24.517Z",
     "usedCard": null
+  },
+  "<script>alert('XSS')</script>": {
+    "password": "123",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777599206648",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "220.173.28.70",
+    "hardwareId": "test123",
+    "createdAt": "2026-05-01T01:33:26.648Z",
+    "usedCard": null
   }
 }
