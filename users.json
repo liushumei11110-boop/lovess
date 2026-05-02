@@ -76,5 +76,18 @@
     "hardwareId": "",
     "createdAt": "2026-05-02T00:56:58.071Z",
     "usedCard": null
+  },
+  "D4Shie": {
+    "password": "111",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777690608125",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "171.219.206.141",
+    "hardwareId": "186f7949a1c7c89642e3ea1b250c2a04371877b1d988ce4ac7b165ee09821425",
+    "createdAt": "2026-05-02T02:56:48.125Z",
+    "usedCard": null
   }
 }
