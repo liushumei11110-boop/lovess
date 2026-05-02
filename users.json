@@ -50,5 +50,18 @@
     "hardwareId": "f539016e86ce2bed130c71dcf4f65cd19157352f6dde8d6c66fcf16a373d91f1",
     "createdAt": "2026-05-02T13:03:53.494Z",
     "usedCard": null
+  },
+  "xeno": {
+    "password": "asdfghjkl",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777729562889",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "220.172.180.245",
+    "hardwareId": "8be94daa0985c49bdd405fe3ba551a945e1db8b335477d9f2a3af25e72ebd086",
+    "createdAt": "2026-05-02T13:46:02.889Z",
+    "usedCard": null
   }
 }
