@@ -115,5 +115,18 @@
     "hardwareId": "2cbd6fb83ce5afd97f6570697b5093dbb01ef4586f0d89a8fd84cd8b436377b8",
     "createdAt": "2026-05-02T03:53:07.759Z",
     "usedCard": null
+  },
+  "ghghghi": {
+    "password": "ghighighi_99999",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777696326292",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "3.38.112.79",
+    "hardwareId": "034765b5ad6c31965bb992a73ac31f4c22e081cf4e6ec8f5baf7e64b699639fe",
+    "createdAt": "2026-05-02T04:32:06.292Z",
+    "usedCard": null
   }
 }
