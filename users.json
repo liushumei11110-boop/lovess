@@ -28,7 +28,7 @@
   "l2zgmwk": {
     "password": "1",
     "role": "user",
-    "banned": false,
+    "banned": true,
     "isMuted": false,
     "userId": "U1777683305910",
     "isBeauty": "A",
