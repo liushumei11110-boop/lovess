@@ -1,1 +1,15 @@
-{}
+{
+  "w3r": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777683226761",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "171.219.206.141",
+    "hardwareId": "",
+    "createdAt": "2026-05-02T00:53:46.761Z",
+    "usedCard": null
+  }
+}
