@@ -141,5 +141,18 @@
     "hardwareId": "test_batch",
     "createdAt": "2026-05-02T04:41:04.977Z",
     "usedCard": null
+  },
+  "test775": {
+    "password": "123456",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777697375252",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "180.138.213.55",
+    "hardwareId": "test_single",
+    "createdAt": "2026-05-02T04:49:35.252Z",
+    "usedCard": null
   }
 }
