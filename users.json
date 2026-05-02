@@ -41,7 +41,7 @@
   "l1ktaqzc": {
     "password": "1",
     "role": "user",
-    "banned": false,
+    "banned": true,
     "isMuted": false,
     "userId": "U1777683325387",
     "isBeauty": "A",
