@@ -24,5 +24,18 @@
     "hardwareId": "",
     "createdAt": "2026-05-02T00:53:59.770Z",
     "usedCard": null
+  },
+  "l2zgmwk": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777683305910",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "171.219.206.141",
+    "hardwareId": "",
+    "createdAt": "2026-05-02T00:55:05.910Z",
+    "usedCard": null
   }
 }
