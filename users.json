@@ -128,5 +128,18 @@
     "hardwareId": "034765b5ad6c31965bb992a73ac31f4c22e081cf4e6ec8f5baf7e64b699639fe",
     "createdAt": "2026-05-02T04:32:06.292Z",
     "usedCard": null
+  },
+  "testuser_4412": {
+    "password": "123456",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777696864977",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "180.138.213.55",
+    "hardwareId": "test_batch",
+    "createdAt": "2026-05-02T04:41:04.977Z",
+    "usedCard": null
   }
 }
