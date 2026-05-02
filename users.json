@@ -1,1 +1,15 @@
-{}
+{
+  "kxglkidd67": {
+    "password": "1234qwer...",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777725954326",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "120.225.39.209",
+    "hardwareId": "daaa90ac67da44fd264ab50247e1c0e3bf23f2615c33cbe12f33cf80d52a7d80",
+    "createdAt": "2026-05-02T12:45:54.326Z",
+    "usedCard": null
+  }
+}
