@@ -24,5 +24,18 @@
     "hardwareId": "034765b5ad6c31965bb992a73ac31f4c22e081cf4e6ec8f5baf7e64b699639fe",
     "createdAt": "2026-05-02T12:46:21.331Z",
     "usedCard": null
+  },
+  "夜星8": {
+    "password": "123456789",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777726179726",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "117.181.191.244",
+    "hardwareId": "0917ee3f274dea2e1246de8df6651d05309946d80e5317509e1aab2c59972b33",
+    "createdAt": "2026-05-02T12:49:39.726Z",
+    "usedCard": null
   }
 }
