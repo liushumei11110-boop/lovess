@@ -15,7 +15,7 @@
   "mojk1f": {
     "password": "1",
     "role": "user",
-    "banned": false,
+    "banned": true,
     "isMuted": false,
     "userId": "U1777683239770",
     "isBeauty": "A",
