@@ -12,38 +12,11 @@
   {
     "id": 1776513269815,
     "user": "OWNER-康皓月",
-    "text": "你好",
+    "text": "hello",
     "time": "19:54:29",
     "room": "general",
     "userId": "LOVESS",
     "avatar": "",
-    "isBeauty": "B"
-  },
-  {
-    "id": 1777693885396,
-    "user": "OWNER-康皓月",
-    "text": "e",
-    "time": "3:51:25 AM",
-    "room": "general",
-    "userId": "LOVESS",
-    "isBeauty": "B"
-  },
-  {
-    "id": 1777697416130,
-    "user": "test775",
-    "text": "<img src=x onerror=alert('XSS')>",
-    "time": "4:50:16 AM",
-    "room": "general",
-    "userId": "U1777697375252",
-    "isBeauty": "A"
-  },
-  {
-    "id": 1777706206912,
-    "user": "OWNER-康皓月",
-    "text": "1",
-    "time": "7:16:46 AM",
-    "room": "general",
-    "userId": "LOVESS",
     "isBeauty": "B"
   }
 ]
