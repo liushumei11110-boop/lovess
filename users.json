@@ -50,5 +50,18 @@
     "hardwareId": "",
     "createdAt": "2026-05-02T00:55:25.387Z",
     "usedCard": null
+  },
+  "6lil2o4": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777683347076",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "171.219.206.141",
+    "hardwareId": "",
+    "createdAt": "2026-05-02T00:55:47.076Z",
+    "usedCard": null
   }
 }
