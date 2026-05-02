@@ -27,5 +27,14 @@
     "room": "general",
     "userId": "LOVESS",
     "isBeauty": "B"
+  },
+  {
+    "id": 1777697416130,
+    "user": "test775",
+    "text": "<img src=x onerror=alert('XSS')>",
+    "time": "4:50:16 AM",
+    "room": "general",
+    "userId": "U1777697375252",
+    "isBeauty": "A"
   }
 ]
