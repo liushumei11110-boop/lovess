@@ -76,5 +76,18 @@
     "hardwareId": "ef9c102dfb6a9890a16d0a6abdb2f6f8e258cd3c1a8c81ca65fa9eff9e7a30ee",
     "createdAt": "2026-05-04T03:47:18.616Z",
     "usedCard": null
+  },
+  "kskakq6": {
+    "password": "jes761228",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777904692319",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "54.46.31.72",
+    "hardwareId": "db45e56af64e0ddec3fc6e201995755a2e98975f439f5b9cd97fd6d40373defb",
+    "createdAt": "2026-05-04T14:24:52.319Z",
+    "usedCard": null
   }
 }
