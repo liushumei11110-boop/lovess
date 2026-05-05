@@ -115,5 +115,18 @@
     "hardwareId": "c19656bf368df737cddd91a5056f8b414aa18888669e8db0c6b9beea8b4e35f5",
     "createdAt": "2026-05-05T04:00:28.477Z",
     "usedCard": "LOVESS-3827"
+  },
+  "CNEJRIH": {
+    "password": "114514HUH",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777954828316",
+    "isBeauty": "B",
+    "avatar": "",
+    "registerIP": "183.199.247.60",
+    "hardwareId": "e5492fb137658ebadaeb732745b52bbaf6fe4210d43f956f1bf4609c0bd9f295",
+    "createdAt": "2026-05-05T04:20:28.316Z",
+    "usedCard": "LOVESS-2069"
   }
 }
