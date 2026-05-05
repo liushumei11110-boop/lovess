@@ -102,5 +102,18 @@
     "hardwareId": "95dd492df67ac0f29f046bd548956a1bf6a1f43988d0afe4d615d5e62e3b392f",
     "createdAt": "2026-05-05T02:56:18.272Z",
     "usedCard": null
+  },
+  "BloodyF3x": {
+    "password": "114514huh",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1777953628477",
+    "isBeauty": "B",
+    "avatar": "",
+    "registerIP": "106.115.223.34",
+    "hardwareId": "c19656bf368df737cddd91a5056f8b414aa18888669e8db0c6b9beea8b4e35f5",
+    "createdAt": "2026-05-05T04:00:28.477Z",
+    "usedCard": "LOVESS-3827"
   }
 }
