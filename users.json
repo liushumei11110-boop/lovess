@@ -106,7 +106,7 @@
   "BloodyF3x": {
     "password": "114514huh",
     "role": "user",
-    "banned": false,
+    "banned": true,
     "isMuted": false,
     "userId": "U1777953628477",
     "isBeauty": "B",
