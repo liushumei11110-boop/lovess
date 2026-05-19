@@ -141,5 +141,18 @@
     "hardwareId": "",
     "createdAt": "2026-05-19T11:19:25.059Z",
     "usedCard": null
+  },
+  "dndu": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1779189583544",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "139.202.158.1",
+    "hardwareId": "",
+    "createdAt": "2026-05-19T11:19:43.544Z",
+    "usedCard": null
   }
 }
