@@ -119,7 +119,7 @@
   "CNEJRIH": {
     "password": "114514HUH",
     "role": "user",
-    "banned": false,
+    "banned": true,
     "isMuted": false,
     "userId": "U1777954828316",
     "isBeauty": "B",
