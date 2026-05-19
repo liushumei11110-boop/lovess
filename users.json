@@ -128,5 +128,18 @@
     "hardwareId": "e5492fb137658ebadaeb732745b52bbaf6fe4210d43f956f1bf4609c0bd9f295",
     "createdAt": "2026-05-05T04:20:28.316Z",
     "usedCard": "LOVESS-2069"
+  },
+  "p4fbql": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1779189565059",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "139.202.158.1",
+    "hardwareId": "",
+    "createdAt": "2026-05-19T11:19:25.059Z",
+    "usedCard": null
   }
 }
