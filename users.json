@@ -2,7 +2,7 @@
   "kxglkidd67": {
     "password": "1234qwer...",
     "role": "user",
-    "banned": false,
+    "banned": true,
     "isMuted": false,
     "userId": "U1777725954326",
     "isBeauty": "A",
