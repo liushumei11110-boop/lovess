@@ -154,5 +154,18 @@
     "hardwareId": "",
     "createdAt": "2026-05-19T11:19:43.544Z",
     "usedCard": null
+  },
+  "wsndnbja": {
+    "password": "sansai",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1779631439073",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "111.8.212.137",
+    "hardwareId": "e73388aea63a11a1879cbf39db8dfae2da5f56e85985b94c3588edecda67ad90",
+    "createdAt": "2026-05-24T14:03:59.073Z",
+    "usedCard": null
   }
 }
