@@ -271,5 +271,18 @@
     "hardwareId": "",
     "createdAt": "2026-06-06T11:43:39.046Z",
     "usedCard": null
+  },
+  "zzzz": {
+    "password": "ans114514",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1780746287796",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "58.56.65.120",
+    "hardwareId": "6792140aa082440d1172070016bc615244d37911dcac03b99359b92115031e8b",
+    "createdAt": "2026-06-06T11:44:47.796Z",
+    "usedCard": null
   }
 }
