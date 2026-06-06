@@ -258,5 +258,18 @@
     "hardwareId": "",
     "createdAt": "2026-06-06T11:43:27.161Z",
     "usedCard": null
+  },
+  "1jgwvygyoh": {
+    "password": "1",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1780746219046",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "18.181.220.214",
+    "hardwareId": "",
+    "createdAt": "2026-06-06T11:43:39.046Z",
+    "usedCard": null
   }
 }
