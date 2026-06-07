@@ -284,5 +284,18 @@
     "hardwareId": "6792140aa082440d1172070016bc615244d37911dcac03b99359b92115031e8b",
     "createdAt": "2026-06-06T11:44:47.796Z",
     "usedCard": null
+  },
+  "question mark man": {
+    "password": "1234567890pO.",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1780844023189",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "111.18.118.217",
+    "hardwareId": "d3a8bc8e79974a2fa8f5becc6b4791d010fb2b721f9c894d84c66f4f628d119a",
+    "createdAt": "2026-06-07T14:53:43.194Z",
+    "usedCard": null
   }
 }
