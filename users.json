@@ -310,5 +310,18 @@
     "hardwareId": "d3205268668c32983fbf86cdc97886f4cc00cda1ff336dc963bbbfcd4b109ac2",
     "createdAt": "2026-07-01T05:48:19.596Z",
     "usedCard": null
+  },
+  "Rob45": {
+    "password": "Moon@Light42%",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1783865595655",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "120.231.235.165",
+    "hardwareId": "8d8ea33b83a268b54ad8d51fbd9e320c329dadc348f2af88054810d87164da66",
+    "createdAt": "2026-07-12T14:13:15.657Z",
+    "usedCard": null
   }
 }
