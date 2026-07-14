@@ -323,5 +323,18 @@
     "hardwareId": "8d8ea33b83a268b54ad8d51fbd9e320c329dadc348f2af88054810d87164da66",
     "createdAt": "2026-07-12T14:13:16.387Z",
     "usedCard": null
+  },
+  "Rob91": {
+    "password": "or2z9FzpLDdAVX+RaKu22Q==",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1784014942503",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "120.231.235.165",
+    "hardwareId": "8d8ea33b83a268b54ad8d51fbd9e320c329dadc348f2af88054810d87164da66",
+    "createdAt": "2026-07-14T07:42:22.503Z",
+    "usedCard": null
   }
 }
