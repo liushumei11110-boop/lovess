@@ -349,5 +349,18 @@
     "hardwareId": "6335064391cb6ec2641a7f06f54211bb2cb69ad47ba6a026f070c5ed016ecb28",
     "createdAt": "2026-07-14T07:54:33.800Z",
     "usedCard": null
+  },
+  "Lovess999": {
+    "password": "qwerty123456",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1784022490606",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "120.231.235.165",
+    "hardwareId": "801e162dca6486ddc1015b0ccd0252c16d86190937855148851e4b51b501c7eb",
+    "createdAt": "2026-07-14T09:48:10.606Z",
+    "usedCard": null
   }
 }
