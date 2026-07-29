@@ -362,5 +362,18 @@
     "hardwareId": "801e162dca6486ddc1015b0ccd0252c16d86190937855148851e4b51b501c7eb",
     "createdAt": "2026-07-14T09:48:10.606Z",
     "usedCard": null
+  },
+  "这么神秘": {
+    "password": "andhello",
+    "role": "user",
+    "banned": false,
+    "isMuted": false,
+    "userId": "U1785323865817",
+    "isBeauty": "A",
+    "avatar": "",
+    "registerIP": "103.62.49.138",
+    "hardwareId": "be50ed217980014d185fea2098cf81b059a250f1d12b8d5dac654fb98a8ffff4",
+    "createdAt": "2026-07-29T11:17:45.817Z",
+    "usedCard": null
   }
 }
