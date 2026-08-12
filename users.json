@@ -314,7 +314,7 @@
   "Rob45": {
     "password": "Moon@Light42%",
     "role": "user",
-    "banned": true,
+    "banned": false,
     "isMuted": false,
     "userId": "U1783865596387",
     "isBeauty": "A",
